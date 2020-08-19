@@ -1,0 +1,17 @@
+1. Go to https://github.com/dasherr/SoulTaker-Multitool
+
+2. Click on 'code' then click on 'Download ZIP'
+
+3. Once downloaded, get it to ur Desktop.
+
+4. (U need winrar for this btw), right mouse click on it and choose 'Extract to SoulTaker-Multitool-master\
+
+5. Once extracted, u get a lil folder with stuff in it. Just get the 'Soultaker.rar' and 'SoulTaker PSWD' out of it and drag it to your Desktop
+
+6. Go to the text file 'SoulTaker PSWD', copy the password in the file and then go to the .rar file 'Soultaker.rar'
+
+7. Right click on it, click on 'Extract to Soultaker\' and then it'll ask for a password. Paste the password u got from the text file 'Soultaker PSWD' earlier
+
+8. Once extracted, you get another folder called 'Soultaker'. Open that folder
+
+9. Run the 'RUNTHIS' file, and enjoy :D
